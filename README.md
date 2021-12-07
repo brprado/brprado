@@ -1,5 +1,4 @@
-##Olá! Eu sou o Bruno Prado 🧑‍💻
-##
+# Olá! Eu sou o Bruno Prado 🧑‍💻
 <div align="center">
   <a href="https://github.com/brprado">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brprado&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
