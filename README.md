@@ -1,4 +1,4 @@
-### Olá! Eu sou o Bruno Prado🐱‍💻
+### Olá! Eu sou o Bruno Prado 🧑‍💻
 ##
 <div align="center">
   <a href="https://github.com/brprado">
