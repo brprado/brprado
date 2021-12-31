@@ -13,7 +13,7 @@
   <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
  
  
-  <img align="right" alt="Programmer-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif">
+  <img align="right" alt="Programmer-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
 </div>
   
   ##
