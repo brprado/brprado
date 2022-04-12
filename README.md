@@ -12,6 +12,7 @@ Bem vindo ao meu GitHub! Atualmente, eu sou estudante de engenharia de software 
 
 #### 🌱 Minhas metas atualmente: 
 - Terminar o meu bacharelado em engenharia de software  
+- Focar meus estudos em desenvolvimento web, com ênfase no back-end
 - Aprimorar ainda mais meus conhecimentos em programação com cursos e especializações
 - Começar a trabalhar como desenvolvedor
 
