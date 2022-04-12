@@ -1,30 +1,40 @@
-# Olá! Eu sou o Bruno Prado 🧑‍💻
-<div align="center">
-  <a href="https://github.com/brprado">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brprado&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brprado&layout=compact&langs_count=7&theme=nightowl"/>
-</div>
-  
-  <div style="display: inline_block">
-   <br>
-  <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
-  <img align="center" alt="Bruno-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Bruno-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
- 
- 
-  <img align="right" alt="Programmer-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif">
-</div>
-  
-  ##
-  
-  <div> 
+### Olá 👋 
+### Eu sou o Bruno Prado!
 
-  <a href="https://instagram.com/brcprado" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:brunopradocode@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/bruno-prado-b5569421b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/brprado/brprado/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/brprado)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-prado-b5569421b/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:brunopradocode@gmail.com)
+
+Bem vindo ao meu GitHub! Atualmente, eu sou estudante de engenharia de software na Universidade Católica de Salvador (UCSal)!  
+
+<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+
+
+#### 🌱 Minhas metas atualmente: 
+- Terminar o meu bacharelado em engenharia de software  
+- Aprimorar ainda mais meus conhecimentos em programação com cursos e especializações
+- Começar a trabalhar como desenvolvedor
+
+#### :muscle: Desafios que faço para mim mesmo:
+- Estudar programação todos os dias
+- Codar, no mínimo, 3 horas no dia
+- Melhorar meu CV com conhecimentos além da faculdade (linguagens de programação, softskills, etc)
+
+#### :computer: Linguagens de programação e ferramentas: 
+<p>
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=brprado93&show_icons=true&hide_border=true" />
+
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+</p>
+
+<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
