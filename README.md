@@ -12,7 +12,7 @@ Bem vindo ao meu GitHub! Atualmente, eu sou estudante de engenharia de software 
 
 #### 🌱 Minhas metas atualmente: 
 - Terminar o meu bacharelado em engenharia de software  
-- Estudar Python e aplica-lo para machine learning e data science
+- Focar os estudos em Java
 - Aprimorar ainda mais meus conhecimentos em programação com cursos e especializações
 
 
