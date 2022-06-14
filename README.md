@@ -30,7 +30,7 @@ Bem vindo ao meu GitHub! Atualmente, eu sou estudante de engenharia de software 
 	<br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
 
-	<br />
+	
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code> 
 <br />
