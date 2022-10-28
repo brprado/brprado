@@ -44,7 +44,7 @@ Currently, I'm studying at [UCSal](https://ucsal.br/), where I'm studying Softwa
 - [DeepLearning Clothes recognizer using Tensoflow and keras](https://github.com/brprado/clothes-recogniztion-keras/blob/main/fashion-mnist-an-introduction-to-deep-learning.ipynb)
 - [Advanced regression techniques w/ Sklearn Kaggle's competition](https://github.com/brprado/house-pricing-regression/blob/main/regression-techniques-boston-house-prices.ipynb)
 - [DeepLearning Digit recognizer using TensorFlow and Keras Kaggle's competition](https://github.com/brprado/digit-recognition-keras/blob/main/digit-recognizer-w-tf-keras-99-accuracy.ipynb)
-- [Fake ID detection using OpenCV](https://github.com/brprado/titanic-survivors-prediction/blob/main/catboostclassifier-in-titanic-ml-competition.ipynb](https://github.com/brprado/fake-id-detection)
+- [Fake ID detection using OpenCV]((https://github.com/brprado/fake-id-detection))
 - [Titanic survivors prediction Kaggle's competition](https://github.com/brprado/titanic-survivors-prediction/blob/main/catboostclassifier-in-titanic-ml-competition.ipynb)
 - [My Kaggle profile](https://www.kaggle.com/brunocprado)
 
