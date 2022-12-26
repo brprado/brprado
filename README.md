@@ -16,6 +16,7 @@ Currently, I'm studying at [UCSal](https://ucsal.br/), where I'm studying Softwa
 - AI
 - Data Science
 - Computer Vision
+- NLP
 
 
 ## Tools / languages
