@@ -2,9 +2,9 @@
 
 <img src="kindpng_3460446.png" alt="drawing" width="150"/>
 
-I'm a Machine Learnig intern, currently working at [LACTEC](https://www.lactec.com.br/).
+I'm a Data Engineering Intern, currently working at [LACTEC](https://www.lactec.com.br/).
 
-I'm a big fan of machine learning, AI and Deep Learning, and I'm currently studying to become a data scientist.
+I'm a big fan of Data Engineering, AI and Machine Learning, and I'm currently studying to become a data scientist.
 
 Currently, I'm studying at [UCSal](https://ucsal.br/), where I'm studying Software Engineering.
   
