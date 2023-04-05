@@ -12,9 +12,7 @@ Currently, I'm studying at [UCSal](https://ucsal.br/), where I'm studying Softwa
 ## My interests
 - Data Engineering
 - Machine Learning
-- Deep Learning
 - Data Science
-- Computer Vision
 - Web Scraping
 
 
@@ -24,11 +22,10 @@ Currently, I'm studying at [UCSal](https://ucsal.br/), where I'm studying Softwa
 - Python 
 - Scikit-learn
 - Pandas
-- Keras
-- TensorFlow
+- Apache Airflow
+- AWS
 - Numpy
 - Matplotlib
-- Seaborn
 - Jupyter Notebook
 
 <!-- logo of the tools i use -->
