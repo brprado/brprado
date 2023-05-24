@@ -38,12 +38,4 @@ Currently, I'm studying at [UCSal](https://ucsal.br/), where I'm studying Softwa
 - [Email: brunoprado2001@gmail.com](mailto:brunopradocode@gmail.com)
 - [My Kaggle profile](https://www.kaggle.com/brunocprado)
 
-## My projects
-- [Bank customers profile analysis](https://www.kaggle.com/code/brunocprado/bank-customers-profile-analysis-pt-br)
-- [DeepLearning Clothes recognizer using Tensoflow and keras](https://github.com/brprado/clothes-recogniztion-keras/blob/main/fashion-mnist-an-introduction-to-deep-learning.ipynb)
-- [Advanced regression techniques w/ Sklearn Kaggle's competition](https://github.com/brprado/house-pricing-regression/blob/main/regression-techniques-boston-house-prices.ipynb)
-- [DeepLearning Digit recognizer using TensorFlow and Keras Kaggle's competition](https://github.com/brprado/digit-recognition-keras/blob/main/digit-recognizer-w-tf-keras-99-accuracy.ipynb)
-- [Fake ID detection using OpenCV](https://github.com/brprado/fake-id-detection)
-- [Titanic survivors prediction Kaggle's competition](https://github.com/brprado/titanic-survivors-prediction/blob/main/catboostclassifier-in-titanic-ml-competition.ipynb)
-- [Spotify musics recomendation system](https://github.com/brprado/spotify-recomendation-system/blob/main/Recomendador_de_musicas.ipynb)
 
