@@ -25,8 +25,8 @@ Currently, I'm studying at [UCSal](https://ucsal.br/), where I'm studying Softwa
 - SQL
 - Apache Airflow
 - AWS
-- Numpy
-- Matplotlib
+- GCP
+- ETL
 - Jupyter Notebook
 
 <!-- logo of the tools i use -->
