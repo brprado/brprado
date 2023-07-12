@@ -1,6 +1,5 @@
 # Hello! I'm Bruno Prado 
 
-<img src="DreamShaper_v7_programmer_minimalist_8k_data_scientist_2.jpg" alt="drawing" width="150"/>
 
 I'm a Data Engineering Intern, currently working at [LACTEC](https://www.lactec.com.br/).
 
