@@ -20,6 +20,7 @@ Currently, I'm studying at [UCSal](https://ucsal.br/), where I'm studying Softwa
 
 - Python 
 - Scikit-learn
+- Django
 - Pandas
 - SQL
 - Apache Airflow
