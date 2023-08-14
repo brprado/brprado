@@ -9,6 +9,7 @@ Currently, I'm studying at [UCSal](https://ucsal.br/), where I'm studying Softwa
   
   
 ## My interests
+- Software Engineering
 - Data Engineering
 - Machine Learning
 - Data Science
