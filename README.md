@@ -10,6 +10,7 @@ Currently, I'm studying at [UCSal](https://ucsal.br/), where I'm studying Softwa
   
 ## My interests
 - Software Engineering
+- Computer Vision
 - Data Engineering
 - Machine Learning
 - Data Science
@@ -21,6 +22,9 @@ Currently, I'm studying at [UCSal](https://ucsal.br/), where I'm studying Softwa
 
 - Python 
 - Java
+- YOLO
+- OpenCV
+- Scikit-Learn
 - Pandas
 - SQL
 - Apache Airflow
