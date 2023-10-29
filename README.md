@@ -1,7 +1,7 @@
 # Hello! I'm Bruno Prado 
 
 
-I'm a Data Science Intern, currently working at [LACTEC](https://www.lactec.com.br/).
+I'm a Data Science Intern, currently working at [Continental](https://www.lactec.com.br/).
 
 I'm a big fan of Software Engineering, AI and Machine Learning, and I'm currently studying to become a Software Engineer.
 
