@@ -1,36 +1,30 @@
 # Hello! I'm Bruno Prado 
 
 
-I'm a Data Science Intern, currently working at [Continental](https://www.lactec.com.br/).
+I'm a Machine Learning Engineer, currently working at [Neoenergia Coelba]([https://www.lactec.com.br/](https://www.neoenergia.com/web/bahia)).
 
 I'm a big fan of Software Engineering, AI and Machine Learning, and I'm currently studying to become a Software Engineer.
 
-Currently, I'm studying at [UCSal](https://ucsal.br/), where I'm studying Software Engineering.
+Currently, I'm studying at [FIAP](https://www.fiap.com.br), where I'm studying Data Science.
   
   
 ## My interests
-- Software Engineering
 - Computer Vision
 - Data Engineering
 - Machine Learning
 - Data Science
-- Web Scraping
 
 
 
 ## Tools / languages
 
 - Python 
-- Java
-- YOLO
 - OpenCV
+- Docker
+- MLFlow
 - Scikit-Learn
 - Pandas
 - SQL
-- Apache Airflow
-- AWS
-- GCP
-- ETL
 - Jupyter Notebook
 
 <!-- logo of the tools i use -->
