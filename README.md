@@ -1,4 +1,4 @@
-# [Hi, My name is Bruno!](www.brcprado.com.br)
+# [Hi, My name is Bruno!](https://brcprado.com.br/)
 
 I'm a Machine Learning Engineer, currently working at [Neoenergia Coelba](https://www.neoenergia.com/web/bahia).
 
