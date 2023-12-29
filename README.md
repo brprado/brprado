@@ -1,6 +1,4 @@
-# Hello! I'm Bruno Prado 
-
-- [Personal Portfolio](www.brcprado.com.br)
+# [Hi, My name is Bruno!](www.brcprado.com.br)
 
 I'm a Machine Learning Engineer, currently working at [Neoenergia Coelba]([https://www.lactec.com.br/](https://www.neoenergia.com/web/bahia)).
 
