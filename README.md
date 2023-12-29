@@ -1,5 +1,6 @@
 # Hello! I'm Bruno Prado 
 
+- [Personal Portfolio](www.brcprado.com.br)
 
 I'm a Machine Learning Engineer, currently working at [Neoenergia Coelba]([https://www.lactec.com.br/](https://www.neoenergia.com/web/bahia)).
 
@@ -17,14 +18,13 @@ Currently, I'm studying at [FIAP](https://www.fiap.com.br), where I'm studying D
 
 ## Tools / languages
 
-- Python 
-- OpenCV
+- Python
+- Scikit-Learn
 - Docker
 - MLFlow
-- Scikit-Learn
+- Apache Spark
 - Pandas
 - SQL
-- Jupyter Notebook
 
 <!-- logo of the tools i use -->
 
