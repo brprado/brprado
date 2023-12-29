@@ -9,11 +9,10 @@ Currently, I'm studying at [FIAP](https://www.fiap.com.br), where I'm studying D
   
   
 ## My interests
-- Computer Vision
-- Data Engineering
-- Machine Learning
 - Data Science
-
+- Machine Learning
+- Deep Learning
+- Data Engineering
 
 
 ## Tools / languages
