@@ -1,6 +1,6 @@
 # [Hi, My name is Bruno!](www.brcprado.com.br)
 
-I'm a Machine Learning Engineer, currently working at [Neoenergia Coelba]([https://www.lactec.com.br/](https://www.neoenergia.com/web/bahia)).
+I'm a Machine Learning Engineer, currently working at [Neoenergia Coelba](https://www.neoenergia.com/web/bahia)).
 
 I'm a big fan of Software Engineering, AI and Machine Learning, and I'm currently studying to become a Software Engineer.
 
