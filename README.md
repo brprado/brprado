@@ -10,19 +10,16 @@ Currently, I'm studying at [FIAP](https://www.fiap.com.br), where I'm studying D
 ## My interests
 - Data Science
 - Machine Learning
-- Deep Learning
-- Data Engineering
+- Generative AI
 
 
 ## Tools / languages
 
 - Python
-- Scikit-Learn
-- Docker
-- MLFlow
-- Apache Spark
-- Pandas
-- SQL
+- LangChain
+- LLM
+- Retrieval Augmented Generation
+- Generative AI Aplications
 
 <!-- logo of the tools i use -->
 
