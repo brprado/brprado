@@ -27,7 +27,7 @@ Currently, I'm studying at [FIAP](https://www.fiap.com.br), where I'm studying D
 ## Contact me
 
 - [LinkedIn](https://www.linkedin.com/in/bruno-prado-7b5b6b1a3/)
-- [Email: brunoprado2001@gmail.com](mailto:brunopradocode@gmail.com)
+- [Email: brunopradocode@gmail.com](mailto:brunopradocode@gmail.com)
 - [My Kaggle profile](https://www.kaggle.com/brunocprado)
 
 
