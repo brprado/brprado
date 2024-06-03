@@ -4,7 +4,7 @@ I'm a Machine Learning Engineer / Data Engineer, currently working at [Neoenergi
 
 I'm a big fan of Software Engineering, AI and Machine Learning, and I'm currently studying to become a Software Engineer.
 
-Currently, I'm studying at [FIAP](https://www.fiap.com.br), where I'm studying Data Science.
+Currently, I'm studying at [UCB](https://ucb.catolica.edu.br/), where I'm studying Software Engineering.
   
   
 ## My interests
