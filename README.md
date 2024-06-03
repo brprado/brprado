@@ -1,6 +1,6 @@
 # [Hi, My name is Bruno!](https://brcprado.com.br/)
 
-I'm a Machine Learning Engineer, currently working at [Neoenergia Coelba](https://www.neoenergia.com/web/bahia).
+I'm a Machine Learning Engineer / Data Engineer, currently working at [Neoenergia Coelba](https://www.neoenergia.com/web/bahia).
 
 I'm a big fan of Software Engineering, AI and Machine Learning, and I'm currently studying to become a Software Engineer.
 
@@ -9,6 +9,7 @@ Currently, I'm studying at [FIAP](https://www.fiap.com.br), where I'm studying D
   
 ## My interests
 - Data Science
+- Data Engineering
 - Machine Learning
 - Generative AI
 
@@ -16,6 +17,9 @@ Currently, I'm studying at [FIAP](https://www.fiap.com.br), where I'm studying D
 ## Tools / languages
 
 - Python
+- Spark
+- Azure
+- Data Pipelines
 - LangChain
 - LLM
 - Retrieval Augmented Generation
