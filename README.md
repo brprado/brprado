@@ -1,4 +1,4 @@
-# [Hi, My name is Bruno!](https://brcprado.com.br/)
+# [Hi, My name is Bruno!]([https://brcprado.com.br/](https://brunoprado.netlify.app/))
 
 I'm a Machine Learning Engineer / Data Engineer, currently working at [Rox Partner](https://roxpartner.com/).
 
