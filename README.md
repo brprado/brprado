@@ -2,19 +2,19 @@
 I am a Data Engineer passionate about building efficient and scalable solutions to handle large volumes of data. Currently, I work at Rox Partner, where I develop and optimize data pipelines, while also exploring the potential of modern platforms for storing and processing information.
 
 ### Technologies and Tools
-Programming Languages: Python, SQL
-Data Processing: Apache Spark
-Cloud Storage: Azure Data Lake, Azure Synapse, HDFS
-Data Pipelines: Apache Airflow, Data Factory
-Data Integration and Management: ETL/ELT, APIs
-Integrated Artificial Intelligence: LangChain, LLMs for RAG (Retrieval-Augmented Generation)
+- Programming Languages: Python, SQL
+- Data Processing: Apache Spark
+- Cloud Storage: Azure Data Lake, Azure Synapse, HDFS
+- Data Pipelines: Apache Airflow, Data Factory
+- Data Integration and Management: ETL/ELT, APIs
+- Integrated Artificial Intelligence: LangChain, LLMs for RAG (Retrieval-Augmented Generation)
 
 ### Areas of Interest
-Data Architecture
-Cloud Data Integration
-Big Data and Query Optimization
-Continuous Pipeline Improvement
-Data Process Automation
+- Data Architectures
+- Cloud Data Integration
+- Big Data and Query Optimization
+- Continuous Pipeline Improvement
+- Data Process Automation
 
 Connect with me to share ideas or collaborate on Data Engineering projects!
 
