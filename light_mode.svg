@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="985px" height="530px" font-family="ConsolasFallback,Consolas,Menlo,'DejaVu Sans Mono',monospace" font-size="16px">
+<style>
+@font-face { src: local('Consolas'), local('Consolas Bold'); font-family: 'ConsolasFallback'; font-display: swap; size-adjust: 109%; }
+.key {fill: #953800;} .value {fill: #0a3069;} .cc {fill: #c2cfde;}
+.add {fill: #1a7f37;} .dele {fill: #cf222e;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="530px" fill="#f6f8fa" rx="15"/>
+<text fill="#24292f">
+<tspan x="15" y="30"></tspan>
+<tspan x="15" y="50">          ...;1jtjrnx|&#x27; .</tspan>
+<tspan x="15" y="70">       `rpkhaB@@@@@@@@Mdpqzvn!</tspan>
+<tspan x="15" y="90">     .rW@@@@@@@BBBBBB@@@@@@@@b,</tspan>
+<tspan x="15" y="110">    :d@@@BB@@@@@@@@@@@@@@@BB@%x,</tspan>
+<tspan x="15" y="130">   ,h@@@@@@@BWWokpkaooW%BB@@@Bu!</tspan>
+<tspan x="15" y="150">  .n@@@@@MpcrtxrrrxnvcmqdphB@@%j.</tspan>
+<tspan x="15" y="170">  :h@@@%wt1lllil1ttjrxvmppqb8@@8|</tspan>
+<tspan x="15" y="190">  ;o@@%vjrj1i!;|||il111rvwpmwa@@p!</tspan>
+<tspan x="15" y="210">  :m@@z1rjliiii,:;;;;nwddbhhhwq@v`</tspan>
+<tspan x="15" y="230">  .lBd1wwmzwqqc| &#x27;:,;xvn1trjudz8j</tspan>
+<tspan x="15" y="250">   |oqvjlilljxrt;`lnmwvxpahomczhi</tspan>
+<tspan x="15" y="270">   &#x27;vkjlwapk%kpv1lnmdhapkdwbbqmbv,</tspan>
+<tspan x="15" y="290">  `jqdjtxnrxnur11ijnmbbmzvcuuzmwpw:</tspan>
+<tspan x="15" y="310">  jniqr1||ii|;,1il,|crvp1ltrxucwwm.</tspan>
+<tspan x="15" y="330">  tnluu|:`&#x27;&#x27;..;!jr;|ccxz|.:ltxzmbm`</tspan>
+<tspan x="15" y="350">  `cnxc|;`&#x27;&#x27;:;l|11tirwqcpwt|rxcwmq8an.</tspan>
+<tspan x="15" y="370">   ,rvvl!;``nzzzvvcpqqqhpvn|uncmh@BMi</tspan>
+<tspan x="15" y="390">     jwti|,&#x27;,;|l1|lrrrxuxjtrunmm8@Wr</tspan>
+<tspan x="15" y="410">     &#x27;vcti!::,``&#x27;&#x27;,:!!|ltuuuummk@8r</tspan>
+<tspan x="15" y="430">      !wzur1!::``,:;il1txvzwdbq%ot</tspan>
+<tspan x="15" y="450">       tzuzzvx1;;&#x27;&#x27;&#x27;&#x27;:1uwhkhbdmz:</tspan>
+<tspan x="15" y="470">       &#x27;i!1jxuvcvunxncpkhbpwvj:</tspan>
+<tspan x="15" y="490">         .,;itj1llttjrnwwzr|`</tspan>
+<tspan x="15" y="510">             &#x27;:|;,:;|ili;&#x27;</tspan>
+</text>
+<text fill="#24292f">
+<tspan x="390" y="30">bruno@prado ────────────────────────────────────────────────</tspan>
+<tspan x="390" y="50"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ......................................... </tspan><tspan class="value">macOS, Linux</tspan></tspan>
+<tspan x="390" y="70"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">5 years, 2 months, 24 days</tspan></tspan>
+<tspan x="390" y="90"><tspan class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ........................................... </tspan><tspan class="value">AB InBev</tspan></tspan>
+<tspan x="390" y="110"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">Data Engineer</tspan></tspan>
+<tspan x="390" y="130"><tspan class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">VSCode, Jupyter, Claude Code</tspan></tspan>
+<tspan x="390" y="150"><tspan class="cc">.</tspan></tspan>
+<tspan x="390" y="170"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">Python, SQL, PySpark, TypeScript</tspan></tspan>
+<tspan x="390" y="190"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">YAML, JSON, Jinja, HTML, CSS</tspan></tspan>
+<tspan x="390" y="210"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Portuguese, English</tspan></tspan>
+<tspan x="390" y="230"><tspan class="cc">.</tspan></tspan>
+<tspan x="390" y="250"><tspan class="cc">. </tspan><tspan class="key">Data</tspan>.<tspan class="key">Engineering</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">Spark, Databricks, dbt, Airflow</tspan></tspan>
+<tspan x="390" y="270"><tspan class="cc">. </tspan><tspan class="key">Data</tspan>.<tspan class="key">Cloud</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Azure (Data Factory, Synapse, ADLS)</tspan></tspan>
+<tspan x="390" y="290"><tspan class="cc">. </tspan><tspan class="key">Data</tspan>.<tspan class="key">Architecture</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">Lakehouse, Medallion, ETL/ELT</tspan></tspan>
+<tspan x="390" y="310"><tspan class="cc">. </tspan><tspan class="key">AI</tspan>.<tspan class="key">Stack</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">LangChain, CrewAI, LLMs, RAG</tspan></tspan>
+<tspan x="390" y="350">- Contact ──────────────────────────────────────────────────</tspan>
+<tspan x="390" y="370"><tspan class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">brunopradocode@gmail.com</tspan></tspan>
+<tspan x="390" y="390"><tspan class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">bruno-prado-7b5b6b1a3</tspan></tspan>
+<tspan x="390" y="410"><tspan class="cc">. </tspan><tspan class="key">Kaggle</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value">brunocprado</tspan></tspan>
+<tspan x="390" y="450">- GitHub Stats ─────────────────────────────────────────────</tspan>
+<tspan x="390" y="470"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> . </tspan><tspan class="value">119</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value">130</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">7</tspan></tspan>
+<tspan x="390" y="490"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">1,368</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">25</tspan></tspan>
+<tspan x="390" y="510"><tspan class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc"> . </tspan><tspan class="value">191,762</tspan> ( <tspan class="add">228,040</tspan><tspan class="add">++</tspan>, <tspan class="dele">36,278</tspan><tspan class="dele">--</tspan> )</tspan>
+</text>
+</svg>
