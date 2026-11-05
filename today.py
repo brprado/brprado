@@ -75,6 +75,7 @@ PROFILE = [
 WIDTH = 60            # characters per info line
 INFO_X, ART_X = 390, 15
 TOP, LINE_H = 30, 20
+ART_FONT, ART_LINE_H = 10, 11  # the portrait uses a smaller font for more detail; it is centered vertically
 THEMES = {
     "dark": dict(bg="#161b22", fg="#c9d1d9", key="#ffa657", value="#a5d6ff",
                  add="#3fb950", dele="#f85149", cc="#616e7f"),
@@ -266,8 +267,8 @@ def info_lines(stats, today):
 
 def render(theme, art, info):
     c = THEMES[theme]
-    rows = max(len(art), len(info))
-    height = TOP + LINE_H * (rows - 1) + 20
+    height = max(TOP + LINE_H * (len(info) - 1) + 20, ART_LINE_H * len(art) + 30)
+    art_top = (height - ART_LINE_H * len(art)) / 2 + ART_FONT * 0.8  # baseline of the first art row
     width = 985
     svg = [
         "<?xml version='1.0' encoding='UTF-8'?>",
@@ -281,9 +282,10 @@ def render(theme, art, info):
         "text, tspan {white-space: pre;}",
         "</style>",
         f'<rect width="{width}px" height="{height}px" fill="{c["bg"]}" rx="15"/>',
-        f'<text fill="{c["fg"]}">',
+        f'<text fill="{c["fg"]}" font-size="{ART_FONT}px">',
     ]
-    svg += [f'<tspan x="{ART_X}" y="{TOP + LINE_H * i}">{escape(line)}</tspan>' for i, line in enumerate(art)]
+    svg += [f'<tspan x="{ART_X}" y="{art_top + ART_LINE_H * i:.1f}">{escape(line)}</tspan>'
+            for i, line in enumerate(art)]
     svg.append("</text>")
     svg.append(f'<text fill="{c["fg"]}">')
     svg += [f'<tspan x="{INFO_X}" y="{TOP + LINE_H * i}">{line}</tspan>' for i, line in enumerate(info) if line]
@@ -307,8 +309,8 @@ def main():
 
     today = dt.datetime.now(TIMEZONE).date()
     info = info_lines(stats, today)
+    art = (ROOT / "art" / "portrait.txt").read_text(encoding="utf-8").splitlines()
     for theme in THEMES:
-        art = (ROOT / "art" / f"{theme}.txt").read_text(encoding="utf-8").splitlines()
         render(theme, art, info)
 
     print(json.dumps(stats, indent=2))
